@@ -1,3 +1,7 @@
+# Employee Directory
+
+When I did the TD this was project 05.
+
 # Technology
 
 - Html, Css, Javascript
@@ -22,10 +26,6 @@ _Demo Gif will take a second to load_
 To run the project just open index.html in your browser with javascript enabled :)
 
 # Project 5 specifics
-
-I did not alter the html or css, only the ./js/scripts.js file.
-
-To review the project just open index.html in your browser.
 
 Basic Spec:
 
@@ -56,5 +56,3 @@ Personal touch:
 ✅ Reset button
 
 - After the user uses search they can get a new list with this button.
-
-Thanks for your review!
